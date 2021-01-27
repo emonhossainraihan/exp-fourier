@@ -1,6 +1,6 @@
-# exp-fourier
+# Exp Fourier Transformation
 
-## the tricky part:
+## The Tricky Part:
 
 - **The blue graph measures the real part of the cycle**. Another lovely math confusion: the real axis of the circle, which is usually horizontal, has its magnitude shown on 
 the vertical axis. You can mentally rotate the circle 90 degrees if you like.
@@ -13,3 +13,5 @@ The time values `[1 -1]` shows the amplitude at these equally-spaced intervals.
  which starts at the max (2) and dips low (-1).
  
  Use `magnitude:angle` to set the phase. So `[0 1:45]` is a 1Hz cycle that starts at 45 degrees.
+ 
+ [Here](https://betterexplained.com/articles/an-interactive-guide-to-the-fourier-transform/) is the original blog. 
